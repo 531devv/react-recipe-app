@@ -4,5 +4,5 @@ Simple project using React, https://spoonacular.com/ API, styled components, rea
 
 ## Preview
 
-([https://531devv.github.io/react-recipe-app/](https://klattdesign.pl/recipe-app/))
+https://531devv.github.io/react-recipe-app/
 
